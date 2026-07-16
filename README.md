@@ -135,5 +135,5 @@ of world units(NIFTI). They are different.
 We will help address the problems that you may encounter when using
 ALoSFL. Please feel free to contact us if you have any question.
 
-Email: [wqian\@sinh.ac.cn](mailto:wqian@sinh.ac.cn){.email};
-[18110980009\@fudan.edu.cn](mailto:18110980009@fudan.edu.cn){.email}
+Email: [wqian\@sinh.ac.cn](mailto:wqian@sinh.ac.cn);
+[18110980009\@fudan.edu.cn](mailto:18110980009@fudan.edu.cn)
