@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Automated Localization of Skull and Face Landmarks (ALoSFL v2.0)
 
 ### Introduction
